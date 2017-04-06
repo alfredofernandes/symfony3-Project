@@ -11,8 +11,8 @@ Installation
 -----
 
 #### Docker
-```
-docker-compose up
+```sh
+$ docker-compose up
 ```
 
 #### Local hosts
