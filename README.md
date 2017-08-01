@@ -23,3 +23,4 @@ docker_machine_ip www.symfony3.dev
 
 
 ![alt text](https://github.com/alfredorfernandes/symfony3-project/blob/master/welcome_to_symfony3.2.7.jpg?raw=true)
+
